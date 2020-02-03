@@ -1,5 +1,3 @@
-## Bear Brawl
-
-### Plug in a controller and start playing!
+### Plug in two controllers and start playing!
 
 
